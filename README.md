@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @FabianFdz
-- 👀 I’m interested in new web technologies and AI stuffs.
-- 🌱 I’m currently learning AI.
+- 👀 I’m interested in new web, mobile and AI technologies.
+- 🌱 I’m currently keep learning AI.
 - 💞️ I’m looking to collaborate on cool projects.
 - 📫 How to reach me: fdzfabian@gmail.com
